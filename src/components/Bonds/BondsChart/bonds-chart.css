@@ -1,0 +1,10 @@
+.bonds-chart {
+  position: relative;
+  width: 700px;
+}
+
+.bonds-chart__type-select {
+  position: absolute;
+  bottom: 60px;
+  right: 60px;
+}
